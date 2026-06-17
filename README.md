@@ -2,12 +2,32 @@
 
 #Sejam todos bem-vindos!
 
-## 🚀 Sobre mim
-:computer: Eu sou uma pessoa desenvolvedora frontend no Brasil e estudante de Análise e Desenvolvimento de Sistemas na PUCPR. 
-### Uma fase muito importante para mim de: ✨ transição de carreira ✨.
+🚀 Sobre mim
 
-- Formada em Administração e pós-graduada em Gestão Financeira.
-- Atuei no em diversas áreas anteriormente, adquirindo várias habilidades que contribuem para o meu desenvolvimento contínuo.
+:computer: Sou Desenvolvedora Front-End com experiência na construção e evolução de aplicações web para e-commerce e sistemas corporativos.
+
+Atualmente trabalho com Angular, TypeScript, JavaScript, HTML e CSS, participando do desenvolvimento de funcionalidades, integrações com APIs e melhoria contínua da experiência dos usuários. Tenho interesse especial por arquitetura front-end, acessibilidade, performance e boas práticas de desenvolvimento.
+
+Minha trajetória profissional combina tecnologia e visão de negócio. Antes da transição para o desenvolvimento de software, atuei em áreas administrativas e financeiras, experiência que hoje me ajuda a compreender requisitos além do código e construir soluções alinhadas às necessidades do produto e dos usuários.
+
+💡 O que eu já desenvolvi:
+
+Projetos de Front-End e aplicações web;
+Estudos e experimentos com Angular e TypeScript;
+Componentes reutilizáveis e boas práticas de desenvolvimento;
+Explorações sobre acessibilidade, SEO e performance;
+Aprendizados e evolução contínua na área de tecnologia.
+
+Sempre buscando aprender, compartilhar conhecimento e construir soluções que gerem impacto real.
+
+🎯 Áreas de interesse
+
+- Front-End Engineering
+- Arquitetura Front-End
+- Acessibilidade Web
+- Performance e SEO
+- E-commerce
+- Experiência do Usuário (UX)
 
 <h3 align="left">Me encontre:</h3>
 
